@@ -1,5 +1,4 @@
 # PyUIA
 
-Windows UIA的Python封装。
+UI Automation.
 
-未来计划支持Linux及Mac。
